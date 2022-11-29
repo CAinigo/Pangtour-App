@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008561459913",
+    "firebase_url": "https://pangtourauth-8cb87-default-rtdb.firebaseio.com",
+    "project_id": "pangtourauth-8cb87",
+    "storage_bucket": "pangtourauth-8cb87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008561459913:android:31c1e342c456d342b5f318",
+        "android_client_info": {
+          "package_name": "com.pangtourPangasinan.pangtour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008561459913-0nh6p1b08srgj1ko5pvm3ju6f6ftrut9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pangtourPangasinan.pangtour",
+            "certificate_hash": "f9d511e1b8a4f039c1a02a7a8d7daae2fdf8dad2"
+          }
+        },
+        {
+          "client_id": "1008561459913-udll9tj5d59aupj69a46l3e7f39voi4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Ivb59MfDe0uEVirA9uxstaTjuSfjmgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008561459913-udll9tj5d59aupj69a46l3e7f39voi4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
